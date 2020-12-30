@@ -1,0 +1,5 @@
+docker-compose build
+docker-compose ps
+docker-compose logs
+docker-compose up -d
+docker-compose down
